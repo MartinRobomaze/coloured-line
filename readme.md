@@ -19,8 +19,6 @@ A home-made spectrometer was used for measuring diffraction spectrum of CD/DVD d
 
 This presentation is partially based on presentations from the [Slovak YPT introductory meetup](tmfsr.sk/sk/aktuality/227) (presentations in slovak).
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 

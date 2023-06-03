@@ -1,0 +1,71 @@
+AstroDMx Capture Log
+NB: This file should be viewed using a fixed width font or the formatting will be lost
+
+Connection Monitor resets: 0 events
+
+
+Application Information
+-------------------------------------------------------------------
+Application               = AstroDMx Capture
+Version                   = 2.0.2
+Platform                  = Linux
+Mode                      = Hardware Acceleration
+
+Observing Site
+-------------------------------------------------------------------
+Site Name                 = Not Defined
+
+Observing Session
+-------------------------------------------------------------------
+Object                    = Not Defined
+Lunar Phase               = 93.8201% ( Waning )
+Lunar Position            = Geographical coordinates not set
+
+Telescope Information
+-------------------------------------------------------------------
+Equipment                 = Not Defined
+
+Camera Information
+-------------------------------------------------------------------
+Camera Name               = ZWO ASI120MC-S
+Pixel Size                = 3.75 x 3.75 ( micrometres )
+Pixel Format              = RGB24 (8-bit)
+Resolution                = 1280 x 960
+Camera Type               = Colour Camera
+Colour Mode               = BGR
+Bit Depth                 = 8-Bit
+USB Bandwidth             = 50
+USB Speed                 = Long Exposure Mode
+Binning                   = 1x1
+ROI Position              = Not Used
+
+Capture Settings
+-------------------------------------------------------------------
+Object Name               = line
+Output Format             = PNG (8-Bit)
+Capture Mode              = Frame Limit (Frames Requested 1)
+Flip Position             = NOT ACTIVE
+Average Frame Rate        = 0.50025
+Capture Started           = 2023/04/08 at 14:11:38
+Capture Ended             = 2023/04/08 at 14:11:40
+Capture Duration          = 2 s
+Frames Captured           = 1
+
+Camera Settings
+-------------------------------------------------------------------
+Exposure                  = 2 s
+Gain                      = 100
+Brightness                = 0
+WB RED                    = AUTO
+WB BLUE                   = AUTO
+
+Thermal Controls
+-------------------------------------------------------------------
+Sensor Temperature        = 31.2 °C
+
+Frame Calibration Settings
+-------------------------------------------------------------------
+Realtime Calibration      = Realtime DARKS
+Calibration FLAT          = NOT ACTIVE
+Calibration DARK          = dark__master__000020__data.fits
+
